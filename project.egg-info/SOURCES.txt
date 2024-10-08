@@ -1,0 +1,15 @@
+setup.py
+dgbt/__init__.py
+dgbt/items.py
+dgbt/middlewares.py
+dgbt/pipelines.py
+dgbt/settings.py
+dgbt/utils.py
+dgbt/spiders/__init__.py
+dgbt/spiders/membs.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/not-zip-safe
+project.egg-info/top_level.txt
